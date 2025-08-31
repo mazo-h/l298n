@@ -1,0 +1,19 @@
+{
+  "name": "mq-l298n",
+  "version": "1.0.0",
+  "description": "Maqueen-style blocks mapped to L298N (micro:bit).",
+  "license": "MIT",
+  "dependencies": {
+    "core": "*",
+    "microbit": "*"
+  },
+  "files": [
+    "main.ts",
+    "README.md"
+  ],
+  "testFiles": [
+    "test.ts"
+  ],
+  "public": true,
+  "preferredEditor": "tsprj"
+}
